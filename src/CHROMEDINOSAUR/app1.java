@@ -20,6 +20,7 @@ public class app1
         frame.add(chromeDinosaur);
         frame.pack();
         chromeDinosaur.requestFocus();
-        frame.setVisible(true);
+
+
     }
 }
